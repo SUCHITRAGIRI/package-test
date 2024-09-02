@@ -1,0 +1,15 @@
+{
+  "name": "package-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "author": "Suchitra Giri",
+  "license": "ISC",
+
+  "publishConfig": {
+  "@SUCHITRAGIRI:registry": "https://npm.pkg.github.com"
+}
+}
